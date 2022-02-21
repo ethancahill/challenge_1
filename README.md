@@ -18,3 +18,7 @@ consolidated css code to avoid redundancy
 used specified <div> elements within html
   
 removed unneccessary class tags
+
+##link to deployed site
+  
+https://ethancahill.github.io/challenge_1/
