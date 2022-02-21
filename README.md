@@ -1,5 +1,5 @@
-# Code Refactor Starter Code
-# <challenge_1
+
+# <challenge_1>
 
 ![alt text](./assets/images/screenshot1.png "First third of page")
 
