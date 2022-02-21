@@ -19,6 +19,6 @@ used specified <div> elements within html
   
 removed unneccessary class tags
 
-##link to deployed site
+## Link to Deployed Site
   
 https://ethancahill.github.io/challenge_1/
